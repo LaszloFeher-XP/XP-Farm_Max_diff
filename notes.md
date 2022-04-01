@@ -18,3 +18,4 @@
 - 2nd test, green ✔
 - 3rd test, red
 - 3rd test, green
+- refactored
