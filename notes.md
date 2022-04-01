@@ -7,11 +7,11 @@
 # Progress
 
 ## 1. Pomodoro
-- create notes 🚧
-- create user stories 🚧
-- create scenarios 🚧
-- create tests 🚧
-- create logic 🚧
+- create notes ✔
+- create user stories ✔
+- create scenarios ✔
+- create tests ✔
+- create logic ✔
 - 1st test, red
 - 1st test, green ✔
 - 2nd test, red
@@ -22,3 +22,4 @@
 - 4th test, green ✔
 - 5th test, red
 - 5th test, green ✔
+- refactored code ✔
