@@ -38,6 +38,11 @@ Given [-0, 1, 2, -3, 4, 5, -6]
 When logic
 Then returns 11
 
+#### 4.
+Given [16]
+When logic
+Then returns 0
+
 # Setting up the environment
 
 ## To install dependencies
