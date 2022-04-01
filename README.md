@@ -1,3 +1,7 @@
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=LaszloFeher-XP_XP-Farm_Max_diff&metric=bugs)](https://sonarcloud.io/summary/new_code?id=LaszloFeher-XP_XP-Farm_Max_diff)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=LaszloFeher-XP_XP-Farm_Max_diff&metric=coverage)](https://sonarcloud.io/summary/new_code?id=LaszloFeher-XP_XP-Farm_Max_diff)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=LaszloFeher-XP_XP-Farm_Max_diff&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=LaszloFeher-XP_XP-Farm_Max_diff)
+
 # max diff - easy
 
 https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095/train/javascript
