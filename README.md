@@ -33,6 +33,11 @@ Given [0, 1, 2, 3, 4, 5]
 When logic
 Then returns 5
 
+#### 3.
+Given [-0, 1, 2, -3, 4, 5, -6]
+When logic
+Then returns 11
+
 # Setting up the environment
 
 ## To install dependencies
