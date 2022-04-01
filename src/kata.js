@@ -1,7 +1,10 @@
 class Kata {
 
   maxdiff(list) {
-    return list.sort()[list.length - 1] - list[0];
+    list.sort(function (a, b) {
+      return a - b;
+    });
+    return list[list.length - 1] - list[0];
   }
 }
 
