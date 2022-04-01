@@ -1,24 +1,37 @@
-# KATA's name
+# max diff - easy
 
-...
+https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095/train/javascript
 
 ## Instructions
 
-...
+You must implement a function that returns the difference between the largest and the smallest value in a given list / array (lst) received as the parameter.
+
+    lst contains integers, that means it may contain some negative numbers
+    if lst is empty or contains a single element, return 0
+    lst is not sorted
+```sh
+[1, 2, 3, 4]   //  returns 3 because 4 -   1  == 3
+[1, 2, 3, -4]  //  returns 7 because 3 - (-4) == 7
+```
 
 ## User Stories
 
 ### 1. First story
-As a ...
-I want to ...
-So that ...
+As a user
+I want to get the difference between the largest and the smallest value in a given list 
+So that create the logic
 
 #### Scenarios
 
 #### 1.
-Given ...
-When ...
-Then ...
+Given [0, 1, 2, 3, 4, 5, 6]
+When logic
+Then returns 6
+
+#### 2.
+Given [0, 1, 2, 3, 4, 5]
+When logic
+Then returns 5
 
 # Setting up the environment
 

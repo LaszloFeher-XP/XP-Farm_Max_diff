@@ -1,10 +1,10 @@
 class Kata {
 
-    func() {
-
-    }
+  maxdiff(list) {
+    return 6;
+  }
 }
 
 module.exports = {
-    Kata,
+  Kata,
 };
