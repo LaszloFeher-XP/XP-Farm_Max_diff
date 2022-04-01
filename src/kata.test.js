@@ -20,6 +20,11 @@ describe('First story', () => {
     const kata = new Kata();
     expect(kata.maxdiff([16])).toStrictEqual(0);
   });
+
+  test('GIVEN [] WHEN logic THEN returns 0', () => {
+    const kata = new Kata();
+    expect(kata.maxdiff([])).toStrictEqual(0);
+  });
 });
 
 

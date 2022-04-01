@@ -43,6 +43,11 @@ Given [16]
 When logic
 Then returns 0
 
+#### 5.
+Given []
+When logic
+Then returns 0
+
 # Setting up the environment
 
 ## To install dependencies
