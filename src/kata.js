@@ -4,7 +4,7 @@ class Kata {
     list.sort((a, b) => {
       return a - b;
     });
-    return list[list.length - 1] - list[0];
+    return list.length > 1 ? list[list.length - 1] - list[0] : 0;
   }
 }
 

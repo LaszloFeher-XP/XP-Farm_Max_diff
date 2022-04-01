@@ -17,7 +17,8 @@
 - 2nd test, red
 - 2nd test, green ✔
 - 3rd test, red
-- 3rd test, green
+- 3rd test, green ✔
 - refactored
-- 4th test, green
+- 4th test, green ✔
 - 5th test, red
+- 5th test, green ✔
